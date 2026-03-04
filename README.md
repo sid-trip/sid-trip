@@ -46,28 +46,6 @@
 
 ---
 
-### 🚀 Current Projects
-
-* **Kly-Mate Weather App:**
-    * A web application built with Python and Streamlit to display weather information.
-    * Utilizes OpenWeatherMap API for data.
-    * Check out the repositories:
-        * [Kly-Mate (Backend/Core Logic?)](https://github.com/sid-trip/Kly-Mate)
-        * [Kly-mate-frontend (Streamlit App?)](https://github.com/sid-trip/Kly-mate-frontend)
-    * **Status**: Beta
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid-trip&show_icons=true&theme=radical" alt="Siddhant's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-trip&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 * **Email:** siddhant.tripathy.dev@gmail.com
