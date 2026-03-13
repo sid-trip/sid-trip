@@ -1,54 +1,40 @@
-# Hi there 👋, I'm Siddhant!
+# Hey there :)
 
-<p align="left">
-  <a href="https://github.com/sid-trip">
+## Im Siddhant (go by sky), and I like a lot of things.
+
+<a href="https://github.com/sid-trip">
     <img src="https://komarev.com/ghpvc/?username=sid-trip&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/sid-trip?tab=followers">
-    <img src="https://img.shields.io/github/followers/sid-trip?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+
+# List of things I like (Know me):
+* **RAG systems** (I'm your guy if you want a RAG system for your company ;) )
+* **Vector DataBases** (This is usally covered in RAG systems but I have a deep understanding of namespacing in vector DataBases as well)
+* **Generative AI** (I have experience in building both local and API based AI chatbots)
+* **MCP servers** (Im just getting started on learning about MCP servers, but I have a knack for them)
+* **Agentic AI** (No experience as of 26th of Jan 2026, will continue to learn about it)
+* **Indomie vegetarian noodles** (Do i need to explain this? they are the best)
 
 ---
 
-### 👨‍💻 About Me
+# What have I built so far (Experience):
 
-* 🎓 I'm a student passionate about technology and building cool things.
-* 🐍 My primary language is **Python**, and I enjoy using it for various applications.
-* 💻 I'm actively involved in **Web Development**, particularly using tools like **Streamlit** to create interactive applications.
-* 🤖 Exploring the world of **Machine Learning** and always eager to learn more about data and algorithms.
-* 🌱 Currently learning about creating and deploying webapps, ML algorithms, and different Database management systems.
-* 💬 Ask me about Python, Streamlit, or basic web development concepts!
+### 1. A website based on StreamLit which uses OpenWeather API to get weather data based on your longitude and latitude.
+- **(Exp earned in backend + frontend logic of python, and RESTAPI)**
 
----
+### 2. A RAG system for Oceanographic data along with which it uses 4 separate LLMs to :
+* **LLM1. parse user input to match column names, and basic cleaning up**
+* **LLM2. convert the parsed input to an SQL query, and pass it to the backend.**
+* **LLM3. Generate a verbose paragraph on the data retrieved from the sql query.**
+* **LLM4. Choose a valid form of visualization for the retrieved data from the sql query to call the respective function from the backend.**
+* This project was built for SIH (Smart India Hackathon, and contains contributions from multiple people for frontend and backend, I was handling the AI part of it. 
+- **(HUGE experience gain on RAG, Generative AI and backend)**
 
-### 🛠️ Tech Stack & Skills
-
-* **Languages:** Python, C, C++.
-* **Web Development:** Streamlit, basics of HTML, CSS, JS.
-* **Machine Learning:** Familier with scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn, and typing.
-* **Tools & Platforms:** Git, GitHub, VS Code, Docker, Render, Streamlit cloud.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Cloud"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
+### 3. An open-sourced RAG based notes system where users can upload notes which would be accessible by everyone, and use Generative AI to ask about the notes. (This project is currently in progress)
+- **(if completed: Exp in webdev, RAG, vector databases, and Generative AI along with scaling user databases)**
 
 ---
 
-### 📫 How to Reach Me
+# Talk to me (Contact information):
 
 * **Email:** siddhant.tripathy.dev@gmail.com
 * **LinkedIn:** [Siddhant Tripathy](https://www.linkedin.com/in/siddhant-tripathy-b6063b32a/)
-
----
