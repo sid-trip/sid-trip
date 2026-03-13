@@ -26,7 +26,7 @@
 * **LLM2. convert the parsed input to an SQL query, and pass it to the backend.**
 * **LLM3. Generate a verbose paragraph on the data retrieved from the sql query.**
 * **LLM4. Choose a valid form of visualization for the retrieved data from the sql query to call the respective function from the backend.**
-* This project was built for SIH (Smart India Hackathon, and contains contributions from multiple people for frontend and backend, I was handling the AI part of it. 
+* This project was built for **SIH** (Smart India Hackathon), and contains contributions from multiple people for frontend and backend, I was handling the AI part of it. 
 - **(HUGE experience gain on RAG, Generative AI and backend)**
 
 ### 3. An open-sourced RAG based notes system where users can upload notes which would be accessible by everyone, and use Generative AI to ask about the notes. (This project is currently in progress)
