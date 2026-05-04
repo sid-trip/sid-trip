@@ -29,8 +29,17 @@
 * This project was built for **SIH** (Smart India Hackathon), and contains contributions from multiple people for frontend and backend, I was handling the AI part of it. 
 - **(HUGE experience gain on RAG, Generative AI and backend)**
 
-### 3. An open-sourced RAG based notes system where users can upload notes which would be accessible by everyone, and use Generative AI to ask about the notes. (This project is currently in progress)
-- **(if completed: Exp in webdev, RAG, vector databases, and Generative AI along with scaling user databases)**
+### 3. OpenNotes (Currently in Beta)
+- **A RAG based central database for notes/pdfs/documents**
+> ### Key features:
+ - **Central DB**: One user uploads the file, the file can be viewed by anyone.
+ - **RAG and GenAI based studying**: the users don't need to study from the whole documents. They can ask for study plans, study specific topics or even question on the topics.
+ - *what makes it stand out is the UI, availablity of resources to answer from, and the quality of the AI's response specifically to study related questions.*
+
+> ### Future improvements (currently in my mind):
+ - Add namespaces for all different branches and subjects of those branches.
+ - Add better study methods such as visualizations
+ - make it available for first year students who cannot use their college ID.
 
 ---
 
